@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 import requests
 import unittest
-from util.RequestUtil import RequestUtil
+from util.request_util import RequestUtil
 '''
 @Project ：test 
 @File    ：UserTsetCase.py
